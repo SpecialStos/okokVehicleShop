@@ -1,4 +1,6 @@
 ## TCVS Integration with okokvehiclehsop
-Kindly modify the specified events in the open-source code available on both client and server sides.
+Please make the necessary changes to the specified event in the client-side open-source code.
 
-This adjustment will ensure that vehicles spawn with the selected color automatically. Please note that this modification does not include warping into the vehicle.
+Additionally, incorporate the specific manual event ("okokVehicleShop:server:TCVS:addVehicle") into the server-side open-source code.
+
+These changes are designed to guarantee that vehicles automatically spawn with the selected color (if chosen). Be aware, however, that these adjustments will not automatically warp the player inside the vehicle.
